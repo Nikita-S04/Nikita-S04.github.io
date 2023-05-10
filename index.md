@@ -4,7 +4,7 @@ This is my home page! My name is Nikita Subedi and I am a student at [Cal State 
 
 ## Computer Science Projects
 
-My GitHub page is [http://github.com/Nikita-S04/] (http://github.com/Nikita-S04)
+My GitHub page is [http://github.com/Nikita-S04] (http://github.com/Nikita-S04).
 
 ### CPSC 120
 
